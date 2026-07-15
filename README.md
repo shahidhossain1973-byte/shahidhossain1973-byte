@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Shahid Hossain</h1>
+<h1 align="center">Hi 👋 I'm Shahid Hossain</h1>
 <h3 align="center">Passionate about building clean, responsive, and user-friendly websites. Always learning and improving my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidhossain1973-byte&label=Profile%20views&color=0e75b6&style=flat" alt="shahidhossain1973-byte" /> </p>
