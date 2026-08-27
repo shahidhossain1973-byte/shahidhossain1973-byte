@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1gvzuU2n0jwIeoPeo4QjOsVW8iQhvDqT5/view?usp=drive_link">
+<img src="https://imgur.com/a/szvGFMp">
 <h1 align="center">Hi 👋 I'm Shahid Hossain</h1>
 <h3 align="center">Passionate about building clean, responsive, and user-friendly websites. Always learning and improving my skills.</h3>
 
